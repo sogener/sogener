@@ -2,6 +2,6 @@
 
 - 💻 Core Stack: **PHP, GO, Python**
 - 🔥 Backend developer
-- 👨‍💻 Linkedin | Instagram | Socials: **@sogener**
+- 👨‍💻 Linkedin | Instagram | Media: **@sogener**
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=sogener&show_icons=true&hide_title=true" alt="sogener" /></p>
